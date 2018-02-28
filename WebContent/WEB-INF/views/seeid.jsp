@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Session Counter</title>
+<title>See Session ID</title>
 </head>
 <body>
-<h1>This is the session counter</h1>
-<a href="welcome.html"><button>Click me</button></a> <br>
-${message}
+
+${userid}
+
 <br>
-<a href="seeid"><button>See Session ID</button></a> <br>
+${cookietest}
 </body>
 </html>
